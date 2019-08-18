@@ -1,0 +1,7 @@
+const ACTION_TYPES = {
+    LOAD_FILE: 'LOAD_FILE',
+    CONVERT_FILE: 'CONVERT_FILE'
+};
+
+
+export default ACTION_TYPES;
